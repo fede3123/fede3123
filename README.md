@@ -4,7 +4,7 @@
 
 -I wish that you find something interesting in my repositorys and if you have any ideas for improve my code, don´t hesitate to make a request :D
 
-*Now i work in a proyect about lstm.
+*Now i work in a proyect about GAN.
 
 <!---
 fede3123/fede3123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
