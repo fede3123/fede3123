@@ -1,6 +1,6 @@
 -Hi, my name is Federico Rosero Vivas, i am learning ia with Python, Tensor flow and keras
 
--I am from Colombia and i like Play videogames like Dark souls and create reviews
+-I am from Colombia and i like Play videogames and create reviews of them
 
 -I wish that you find something interesting in my repositorys and if you have any ideas for improve my code, don´t hesitate to make a request :D
 
